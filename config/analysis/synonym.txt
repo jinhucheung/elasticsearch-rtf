@@ -29,3 +29,15 @@ facebook,脸书
 人工智能,AI
 支付宝,Alipay
 微信支付,WeChatPay
+数据库,database
+区块链,blockchain
+以太坊,ethereum
+比特币,bitcoin,BTC,XBT
+百度,baidu
+博客,blog,weblog,部落格,网志
+新浪,Sina
+即时通讯,IM
+桌面,desktop
+工作流,workflow
+脚本,script
+操作系统,os
